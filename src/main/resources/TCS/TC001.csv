@@ -1,0 +1,9 @@
+Testname,Preondition,Order,Scenario,result
+feature_1,"a=3 b=3 c=2",,,
+,,1,a b c,5
+,,2,a b,6
+,,3,a,3
+feature_2,a=5 b=3 c=2,,
+,,1,a b c,10
+,,2,a c,7
+,,3,a,8
